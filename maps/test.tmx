@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="15" tilewidth="80" tileheight="80" backgroundcolor="#ffff7f">
+ <tileset firstgid="1" name="map_texture" tilewidth="80" tileheight="80">
+  <image source="map_texture.png" width="240" height="240"/>
+  <tile id="0">
+   <properties>
+    <property name="class" value="wall"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="class" value="wall"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="class" value="wall"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="class" value="wall"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="class" value="wall"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJy1kwsKgDAMQ7OP97+yDFYoMVs71EBwaHi0na0A6nRW13zWwFmW+Q2vf8Rrzp6HQx5zPM90WtdQmW4ik+VZXcbymahHxebayqKHTK08az4PdTz7j+a340Wz5Jy/V9bqm+J1kRvy/7DS6h44n9mb3Z5c0PvE7yEyf/kG2vUBww==
+  </data>
+ </layer>
+</map>

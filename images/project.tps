@@ -38,7 +38,7 @@
         <key>dataFormat</key>
         <string>xml</string>
         <key>textureFileName</key>
-        <filename></filename>
+        <filename>../Eyed/Resources/Content/Animations/eye.png</filename>
         <key>flipPVR</key>
         <false/>
         <key>pvrCompressionQuality</key>
@@ -145,7 +145,7 @@
             <key>data</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename></filename>
+                <filename>../Eyed/Resources/Content/Animations/eye.xml</filename>
             </struct>
         </map>
         <key>multiPack</key>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6fc6bca29c82653e00eee45d1617700c:f6b4001bd95af6d6b002836c566ae28b:8eec8c0b8d4b7d2b3d85462beed99c3d$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="body.png" width="1834" height="45">
+    <sprite n="body01.png" x="1233" y="2" w="72" h="23" pX="0.5" pY="1"/>
+    <sprite n="body02.png" x="1532" y="2" w="72" h="22" pX="0.5" pY="1"/>
+    <sprite n="body03.png" x="1380" y="2" w="74" h="22" pX="0.5" pY="1"/>
+    <sprite n="body04.png" x="1684" y="2" w="75" h="20" pX="0.5" pY="1"/>
+    <sprite n="body05.png" x="1606" y="25" w="74" h="18" pX="0.5" pY="1"/>
+    <sprite n="body06.png" x="1684" y="24" w="73" h="19" pX="0.5" pY="1"/>
+    <sprite n="body07.png" x="1759" y="24" w="73" h="19" pX="0.5" pY="1"/>
+    <sprite n="body08.png" x="1606" y="2" w="76" h="21" pX="0.5" pY="1"/>
+    <sprite n="body09.png" x="1456" y="2" w="74" h="22" pX="0.5" pY="1"/>
+    <sprite n="body10.png" x="1087" y="2" w="72" h="24" pX="0.5" pY="1"/>
+    <sprite n="body11.png" x="1233" y="2" w="72" h="23" pX="0.5" pY="1"/>
+    <sprite n="body12.png" x="1307" y="2" w="71" h="23" pX="0.5" pY="1"/>
+    <sprite n="body13.png" x="1161" y="2" w="70" h="24" pX="0.5" pY="1"/>
+    <sprite n="body14.png" x="1015" y="2" w="70" h="27" pX="0.5" pY="1"/>
+    <sprite n="body15.png" x="943" y="2" w="70" h="30" pX="0.5" pY="1"/>
+    <sprite n="body16.png" x="871" y="2" w="70" h="34" pX="0.5" pY="1"/>
+    <sprite n="body17.png" x="727" y="2" w="70" h="37" pX="0.5" pY="1"/>
+    <sprite n="body18.png" x="2" y="2" w="70" h="41" pX="0.5" pY="1"/>
+    <sprite n="body19.png" x="2" y="2" w="70" h="41" pX="0.5" pY="1"/>
+    <sprite n="body20.png" x="74" y="2" w="70" h="41" pX="0.5" pY="1"/>
+    <sprite n="body21.png" x="146" y="2" w="70" h="41" pX="0.5" pY="1"/>
+    <sprite n="body22.png" x="437" y="2" w="71" h="40" pX="0.5" pY="1"/>
+    <sprite n="body23.png" x="218" y="2" w="70" h="41" pX="0.5" pY="1"/>
+    <sprite n="body25.png" x="799" y="2" w="70" h="37" pX="0.5" pY="1"/>
+    <sprite n="body26.png" x="655" y="2" w="70" h="38" pX="0.5" pY="1"/>
+    <sprite n="body27.png" x="362" y="2" w="73" h="40" pX="0.5" pY="1"/>
+    <sprite n="body28.png" x="510" y="2" w="71" h="40" pX="0.5" pY="1"/>
+    <sprite n="body29.png" x="290" y="2" w="70" h="41" pX="0.5" pY="1"/>
+    <sprite n="body30.png" x="583" y="2" w="70" h="40" pX="0.5" pY="1"/>
+    <sprite n="body31.png" x="2" y="2" w="70" h="41" pX="0.5" pY="1"/>
+    <sprite n="body32.png" x="727" y="2" w="70" h="37" pX="0.5" pY="1"/>
+    <sprite n="body33.png" x="871" y="2" w="70" h="34" pX="0.5" pY="1"/>
+    <sprite n="body34.png" x="943" y="2" w="70" h="30" pX="0.5" pY="1"/>
+    <sprite n="body35.png" x="1015" y="2" w="70" h="27" pX="0.5" pY="1"/>
+    <sprite n="body36.png" x="1161" y="2" w="70" h="24" pX="0.5" pY="1"/>
+    <sprite n="body37.png" x="1307" y="2" w="71" h="23" pX="0.5" pY="1"/>
+    <sprite n="body38.png" x="1233" y="2" w="72" h="23" pX="0.5" pY="1"/>
+</TextureAtlas>

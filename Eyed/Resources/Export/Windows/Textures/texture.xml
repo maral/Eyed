@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:cbd0d27549b46e68ce933db798aeb055:a7c5c9df64218d37b13e71b3f2a2034a:2b951b85fc161cee14f04b2ca1c50bd0$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="texture.png" width="380" height="128">
+    <sprite n="eye01.png" x="2" y="2" w="61" h="61" pX="0.5" pY="0.5"/>
+    <sprite n="eye02.png" x="2" y="65" w="61" h="61" pX="0.5" pY="0.5"/>
+    <sprite n="eye03.png" x="65" y="2" w="61" h="61" pX="0.5" pY="0.5"/>
+    <sprite n="eye04.png" x="65" y="65" w="61" h="61" pX="0.5" pY="0.5"/>
+    <sprite n="eye05.png" x="128" y="2" w="61" h="61" pX="0.5" pY="0.5"/>
+    <sprite n="eye06.png" x="128" y="65" w="61" h="61" pX="0.5" pY="0.5"/>
+    <sprite n="eye07.png" x="191" y="2" w="61" h="61" pX="0.5" pY="0.5"/>
+    <sprite n="eye08.png" x="191" y="65" w="61" h="61" pX="0.5" pY="0.5"/>
+    <sprite n="eye09.png" x="254" y="2" w="61" h="61" pX="0.5" pY="0.5"/>
+    <sprite n="eye10.png" x="254" y="65" w="61" h="61" pX="0.5" pY="0.5"/>
+    <sprite n="eye11.png" x="317" y="2" w="61" h="61" pX="0.5" pY="0.5"/>
+</TextureAtlas>

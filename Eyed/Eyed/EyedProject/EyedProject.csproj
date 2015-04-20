@@ -36,7 +36,6 @@
     <Reference Include="WaveEngine.Common" />
     <Reference Include="WaveEngine.Framework" />
     <Reference Include="WaveEngine.Components" />
-    <Reference Include="WaveEngine.Materials" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -44,11 +43,23 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
+    <Reference Include="WaveEngine.ImageEffects, Version=1.4.2.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="WaveEngine.Physics, Version=1.4.2.0, Culture=neutral, PublicKeyToken=6e72eaf7d6c3c55b, processorArchitecture=x86" />
+    <Reference Include="WaveEngine.TiledMap, Version=1.4.2.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\WaveEngineSource\Extensions\WaveEngine.TiledMap\ClassLibrary1\bin\Debug\WaveEngine.TiledMap.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Components\EyeController.cs" />
+    <Compile Include="Components\KeyboardControls.cs" />
+    <Compile Include="Components\DebugRects.cs" />
+    <Compile Include="Components\PlayerController.cs" />
     <Compile Include="Game.cs" />
+    <Compile Include="GameSceneBehavior.cs" />
     <Compile Include="MenuScene.cs" />
     <Compile Include="GameScene.cs" />
+    <Compile Include="SoundManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources.weproj" />

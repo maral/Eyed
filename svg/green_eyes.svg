@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg7190"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 34">
+  <defs
+     id="defs7192" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="181.87837"
+     inkscape:cy="528.50883"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7195">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3845"
+       transform="translate(-166.84699,-175.33863)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye13.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001">
+      <path
+         transform="matrix(0.90547673,0,0,0.90547673,13.807149,40.564463)"
+         d="m 421.42857,290.21933 c 0,75.34742 -61.08115,136.42857 -136.42857,136.42857 -75.34742,0 -136.42857,-61.08115 -136.42857,-136.42857 0,-75.34742 61.08115,-136.42857 136.42857,-136.42857 75.34742,0 136.42857,61.08115 136.42857,136.42857 z"
+         sodipodi:ry="136.42857"
+         sodipodi:rx="136.42857"
+         sodipodi:cy="290.21933"
+         sodipodi:cx="285"
+         id="path2985"
+         style="fill:#ffffff;stroke:#000000;stroke-width:16.56585884;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3764"
+         d="m 162.75567,264.04151 c -2.71788,6.79188 -4.83036,13.91209 -6.20606,21.34525 -11.48923,62.07894 30.98129,121.10542 94.86503,131.83742 34.12564,5.73287 67.4695,-3.47138 92.86909,-22.75584 -21.73367,6.51756 -46.1795,8.27295 -71.20905,4.06817 C 200.52657,386.34895 150.5638,328.73207 161.46257,269.8435 c 0.36305,-1.96168 0.806,-3.88808 1.2931,-5.80199 z"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#7fff2a;fill-opacity:1;stroke:none"
+       id="path3755"
+       sodipodi:cx="355"
+       sodipodi:cy="290.57648"
+       sodipodi:rx="35"
+       sodipodi:ry="79.64286"
+       d="m 390,290.57648 a 35,79.64286 0 1 1 -70,0 35,79.64286 0 1 1 70,0 z"
+       transform="matrix(1.5572346,0,0,1.0907078,-386.91007,-188.88638)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye13.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#374845;fill-opacity:1;stroke:none"
+       id="path3759"
+       sodipodi:cx="372.74628"
+       sodipodi:cy="302.82898"
+       sodipodi:rx="17.172594"
+       sodipodi:ry="41.416256"
+       d="m 389.91887,302.82898 a 17.172594,41.416256 0 1 1 -34.34519,0 17.172594,41.416256 0 1 1 34.34519,0 z"
+       transform="matrix(1.4722518,0,0,1.0907078,-353.57353,-204.95673)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye13.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#55d400;fill-opacity:1;stroke:none"
+       d="m 112.54966,147.21707 c 5.8215,39.43 27.28827,68.68826 52.87685,68.68826 12.37765,0 23.75823,-6.8379 32.90225,-18.36971 -6.57211,2.73488 -13.48463,4.20469 -20.65504,4.20469 -27.72586,0 -51.98457,-21.89789 -65.12406,-54.52324 z"
+       id="path3777"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye13.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <g
+       id="g3845-0"
+       transform="translate(104.88405,-175.33862)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye14.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001">
+      <path
+         transform="matrix(0.90547673,0,0,0.90547673,13.807149,40.564463)"
+         d="m 421.42857,290.21933 c 0,75.34742 -61.08115,136.42857 -136.42857,136.42857 -75.34742,0 -136.42857,-61.08115 -136.42857,-136.42857 0,-75.34742 61.08115,-136.42857 136.42857,-136.42857 75.34742,0 136.42857,61.08115 136.42857,136.42857 z"
+         sodipodi:ry="136.42857"
+         sodipodi:rx="136.42857"
+         sodipodi:cy="290.21933"
+         sodipodi:cx="285"
+         id="path2985-6"
+         style="fill:#ffffff;stroke:#000000;stroke-width:16.56585884;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3764-1"
+         d="m 162.75567,264.04151 c -2.71788,6.79188 -4.83036,13.91209 -6.20606,21.34525 -11.48923,62.07894 30.98129,121.10542 94.86503,131.83742 34.12564,5.73287 67.4695,-3.47138 92.86909,-22.75584 -21.73367,6.51756 -46.1795,8.27295 -71.20905,4.06817 C 200.52657,386.34895 150.5638,328.73207 161.46257,269.8435 c 0.36305,-1.96168 0.806,-3.88808 1.2931,-5.80199 z"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#66ff00;fill-opacity:1;stroke:none"
+       id="path3755-5"
+       sodipodi:cx="355"
+       sodipodi:cy="290.57648"
+       sodipodi:rx="35"
+       sodipodi:ry="79.64286"
+       d="m 390,290.57648 a 35,79.64286 0 1 1 -70,0 35,79.64286 0 1 1 70,0 z"
+       transform="matrix(1.6581815,0,0,1.0907078,-153.54295,-188.88638)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye14.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#374845;fill-opacity:1;stroke:none"
+       id="path3759-5"
+       sodipodi:cx="372.74628"
+       sodipodi:cy="302.82898"
+       sodipodi:rx="17.172594"
+       sodipodi:ry="41.416256"
+       d="m 389.91887,302.82898 a 17.172594,41.416256 0 1 1 -34.34519,0 17.172594,41.416256 0 1 1 34.34519,0 z"
+       transform="matrix(1.6853368,0,0,1.0907078,-168.96897,-202.93641)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye14.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#55d400;fill-opacity:1;stroke:none"
+       d="m 378.29397,147.21708 c 6.19888,39.43 29.05722,68.68826 56.30457,68.68826 13.18002,0 25.29834,-6.8379 35.03511,-18.36971 -6.99813,2.73488 -14.35875,4.20469 -21.99398,4.20469 -29.52318,0 -55.35444,-21.89789 -69.3457,-54.52324 z"
+       id="path3777-2"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye14.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <g
+       id="g3845-0-8"
+       transform="translate(376.61507,-176.34878)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye15.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001">
+      <path
+         transform="matrix(0.90547673,0,0,0.90547673,13.807149,40.564463)"
+         d="m 421.42857,290.21933 c 0,75.34742 -61.08115,136.42857 -136.42857,136.42857 -75.34742,0 -136.42857,-61.08115 -136.42857,-136.42857 0,-75.34742 61.08115,-136.42857 136.42857,-136.42857 75.34742,0 136.42857,61.08115 136.42857,136.42857 z"
+         sodipodi:ry="136.42857"
+         sodipodi:rx="136.42857"
+         sodipodi:cy="290.21933"
+         sodipodi:cx="285"
+         id="path2985-6-3"
+         style="fill:#ffffff;stroke:#000000;stroke-width:16.56585884;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3764-1-2"
+         d="m 162.75567,264.04151 c -2.71788,6.79188 -4.83036,13.91209 -6.20606,21.34525 -11.48923,62.07894 30.98129,121.10542 94.86503,131.83742 34.12564,5.73287 67.4695,-3.47138 92.86909,-22.75584 -21.73367,6.51756 -46.1795,8.27295 -71.20905,4.06817 C 200.52657,386.34895 150.5638,328.73207 161.46257,269.8435 c 0.36305,-1.96168 0.806,-3.88808 1.2931,-5.80199 z"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#66ff00;fill-opacity:1;stroke:none"
+       id="path3755-5-7"
+       sodipodi:cx="355"
+       sodipodi:cy="290.57648"
+       sodipodi:rx="35"
+       sodipodi:ry="79.64286"
+       d="m 390,290.57648 a 35,79.64286 0 1 1 -70,0 35,79.64286 0 1 1 70,0 z"
+       transform="matrix(2.033381,0,0,1.0907078,-28.139747,-189.89654)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye15.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#55d400;fill-opacity:1;stroke:none"
+       d="m 624.03682,146.20692 c 7.60151,39.43 35.63204,68.68826 69.0447,68.68826 16.16228,0 31.02264,-6.8379 42.96256,-18.36971 -8.58161,2.73488 -17.60773,4.20469 -26.97059,4.20469 -36.20344,0 -67.87959,-21.89789 -85.03667,-54.52324 z"
+       id="path3777-2-5"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye15.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#374845;fill-opacity:1;stroke:none"
+       id="path3759-5-8"
+       sodipodi:cx="372.74628"
+       sodipodi:cy="302.82898"
+       sodipodi:rx="17.172594"
+       sodipodi:ry="41.416256"
+       d="m 389.91887,302.82898 a 17.172594,41.416256 0 1 1 -34.34519,0 17.172594,41.416256 0 1 1 34.34519,0 z"
+       transform="matrix(2.0382779,0,0,1.0907078,-42.93759,-203.94657)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye15.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <g
+       id="g3845-0-8-2"
+       transform="translate(-176.94852,90.33149)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye16.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001">
+      <path
+         transform="matrix(0.90547673,0,0,0.90547673,13.807149,40.564463)"
+         d="m 421.42857,290.21933 c 0,75.34742 -61.08115,136.42857 -136.42857,136.42857 -75.34742,0 -136.42857,-61.08115 -136.42857,-136.42857 0,-75.34742 61.08115,-136.42857 136.42857,-136.42857 75.34742,0 136.42857,61.08115 136.42857,136.42857 z"
+         sodipodi:ry="136.42857"
+         sodipodi:rx="136.42857"
+         sodipodi:cy="290.21933"
+         sodipodi:cx="285"
+         id="path2985-6-3-7"
+         style="fill:#ffffff;stroke:#000000;stroke-width:16.56585884;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3764-1-2-2"
+         d="m 162.75567,264.04151 c -2.71788,6.79188 -4.83036,13.91209 -6.20606,21.34525 -11.48923,62.07894 30.98129,121.10542 94.86503,131.83742 34.12564,5.73287 67.4695,-3.47138 92.86909,-22.75584 -21.73367,6.51756 -46.1795,8.27295 -71.20905,4.06817 C 200.52657,386.34895 150.5638,328.73207 161.46257,269.8435 c 0.36305,-1.96168 0.806,-3.88808 1.2931,-5.80199 z"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#66ff00;fill-opacity:1;stroke:none"
+       id="path3755-5-7-7"
+       sodipodi:cx="355"
+       sodipodi:cy="290.57648"
+       sodipodi:rx="35"
+       sodipodi:ry="79.64286"
+       d="m 390,290.57648 a 35,79.64286 0 1 1 -70,0 35,79.64286 0 1 1 70,0 z"
+       transform="matrix(2.264273,0,0,1.0907078,-673.77153,76.78373)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye16.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#55d400;fill-opacity:1;stroke:none"
+       d="m 52.460189,412.88719 c 8.464669,39.43 39.678093,68.68826 76.884781,68.68826 17.99752,0 34.54528,-6.8379 47.841,-18.36971 -9.55606,2.73488 -19.6071,4.20469 -30.03313,4.20469 -40.31437,0 -75.587364,-21.89789 -94.692651,-54.52324 z"
+       id="path3777-2-5-6"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye16.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#374845;fill-opacity:1;stroke:none"
+       id="path3759-5-8-3"
+       sodipodi:cx="372.74628"
+       sodipodi:cy="302.82898"
+       sodipodi:rx="17.172594"
+       sodipodi:ry="41.416256"
+       d="m 389.91887,302.82898 a 17.172594,41.416256 0 1 1 -34.34519,0 17.172594,41.416256 0 1 1 34.34519,0 z"
+       transform="matrix(2.391219,0,0,1.0907078,-746.24143,62.7337)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye16.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <g
+       id="g3845-0-8-2-1"
+       transform="translate(105.89419,94.37209)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye17.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001">
+      <path
+         transform="matrix(0.90547673,0,0,0.90547673,13.807149,40.564463)"
+         d="m 421.42857,290.21933 c 0,75.34742 -61.08115,136.42857 -136.42857,136.42857 -75.34742,0 -136.42857,-61.08115 -136.42857,-136.42857 0,-75.34742 61.08115,-136.42857 136.42857,-136.42857 75.34742,0 136.42857,61.08115 136.42857,136.42857 z"
+         sodipodi:ry="136.42857"
+         sodipodi:rx="136.42857"
+         sodipodi:cy="290.21933"
+         sodipodi:cx="285"
+         id="path2985-6-3-7-5"
+         style="fill:#ffffff;stroke:#000000;stroke-width:16.56585884;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3764-1-2-2-9"
+         d="M 156.2132,312.23482 C 168.3789,433.0426 317.66468,455.12449 371.49471,362.2066 282.00048,438.04282 197.80914,379.17656 156.2132,312.23482 z"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#66ff00;fill-opacity:1;stroke:none"
+       id="path3755-5-7-7-9"
+       sodipodi:cx="355"
+       sodipodi:cy="290.57648"
+       sodipodi:rx="35"
+       sodipodi:ry="79.64286"
+       d="m 390,290.57648 a 35,79.64286 0 1 1 -70,0 35,79.64286 0 1 1 70,0 z"
+       transform="matrix(2.4374421,0,0,1.0907078,-466.54595,80.82433)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye17.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#55d400;fill-opacity:1;stroke:none"
+       d="m 318.26286,425.67779 c 21.21897,62.34726 99.60185,79.29011 143.37181,30.67569 -50.47214,20.08476 -119.74488,6.79053 -143.37181,-30.67569 z"
+       id="path3777-2-5-6-5"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye17.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#374845;fill-opacity:1;stroke:none"
+       id="path3759-5-8-3-4"
+       sodipodi:cx="372.74628"
+       sodipodi:cy="302.82898"
+       sodipodi:rx="17.172594"
+       sodipodi:ry="41.416256"
+       d="m 389.91887,302.82898 a 17.172594,41.416256 0 1 1 -34.34519,0 17.172594,41.416256 0 1 1 34.34519,0 z"
+       transform="matrix(2.6265131,0,0,1.0907078,-569.28647,68.79461)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye17.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <g
+       id="g3845-0-8-2-1-9"
+       transform="translate(382.676,92.35179)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye18.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001">
+      <path
+         transform="matrix(0.90547673,0,0,0.90547673,13.807149,40.564463)"
+         d="m 421.42857,290.21933 c 0,75.34742 -61.08115,136.42857 -136.42857,136.42857 -75.34742,0 -136.42857,-61.08115 -136.42857,-136.42857 0,-75.34742 61.08115,-136.42857 136.42857,-136.42857 75.34742,0 136.42857,61.08115 136.42857,136.42857 z"
+         sodipodi:ry="136.42857"
+         sodipodi:rx="136.42857"
+         sodipodi:cy="290.21933"
+         sodipodi:cx="285"
+         id="path2985-6-3-7-5-5"
+         style="fill:#ffffff;stroke:#000000;stroke-width:16.56585884;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path3764-1-2-2-9-2"
+         d="m 163.08666,343.87331 c 42.71435,105.87176 184.10336,95.54371 218.03957,-1.38056 -79.72945,86.41301 -145.33795,69.88465 -218.03957,1.38056 z"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#66ff00;fill-opacity:1;stroke:none"
+       id="path3755-5-7-7-9-2"
+       sodipodi:cx="355"
+       sodipodi:cy="290.57648"
+       sodipodi:rx="35"
+       sodipodi:ry="79.64286"
+       d="m 390,290.57648 a 35,79.64286 0 1 1 -70,0 35,79.64286 0 1 1 70,0 z"
+       transform="matrix(2.4374421,0,0,1.0907078,-207.94689,78.80403)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye18.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#55d400;fill-opacity:1;stroke:none"
+       d="m 581.27608,435.11054 c 33.9389,63.73919 119.61201,62.27801 151.68979,0.6948 -56.03746,37.85981 -100.93555,38.08819 -151.68979,-0.6948 z"
+       id="path3777-2-5-6-5-2"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye18.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#374845;fill-opacity:1;stroke:none"
+       id="path3759-5-8-3-4-3"
+       sodipodi:cx="372.74628"
+       sodipodi:cy="302.82898"
+       sodipodi:rx="17.172594"
+       sodipodi:ry="41.416256"
+       d="m 389.91887,302.82898 a 17.172594,41.416256 0 1 1 -34.34519,0 17.172594,41.416256 0 1 1 34.34519,0 z"
+       transform="matrix(2.6265131,0,0,1.0907078,-320.78893,66.77431)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye18.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <g
+       id="g3845-8"
+       transform="matrix(-1,0,0,1,636.78029,624.98936)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye23.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001">
+      <path
+         transform="matrix(0.90547673,0,0,0.90547673,13.807149,40.564463)"
+         d="m 421.42857,290.21933 c 0,75.34742 -61.08115,136.42857 -136.42857,136.42857 -75.34742,0 -136.42857,-61.08115 -136.42857,-136.42857 0,-75.34742 61.08115,-136.42857 136.42857,-136.42857 75.34742,0 136.42857,61.08115 136.42857,136.42857 z"
+         sodipodi:ry="136.42857"
+         sodipodi:rx="136.42857"
+         sodipodi:cy="290.21933"
+         sodipodi:cx="285"
+         id="path2985-5"
+         style="fill:#ffffff;stroke:#000000;stroke-width:16.56585884;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3764-4"
+         d="m 162.75567,264.04151 c -2.71788,6.79188 -4.83036,13.91209 -6.20606,21.34525 -11.48923,62.07894 30.98129,121.10542 94.86503,131.83742 34.12564,5.73287 67.4695,-3.47138 92.86909,-22.75584 -21.73367,6.51756 -46.1795,8.27295 -71.20905,4.06817 C 200.52657,386.34895 150.5638,328.73207 161.46257,269.8435 c 0.36305,-1.96168 0.806,-3.88808 1.2931,-5.80199 z"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#66ff00;fill-opacity:1;stroke:none"
+       id="path3755-7"
+       sodipodi:cx="355"
+       sodipodi:cy="290.57648"
+       sodipodi:rx="35"
+       sodipodi:ry="79.64286"
+       d="m 390,290.57648 a 35,79.64286 0 1 1 -70,0 35,79.64286 0 1 1 70,0 z"
+       transform="matrix(-1.5572346,0,0,1.0907078,856.84337,611.4416)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye23.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#374845;fill-opacity:1;stroke:none"
+       id="path3759-7"
+       sodipodi:cx="372.74628"
+       sodipodi:cy="302.82898"
+       sodipodi:rx="17.172594"
+       sodipodi:ry="41.416256"
+       d="m 389.91887,302.82898 a 17.172594,41.416256 0 1 1 -34.34519,0 17.172594,41.416256 0 1 1 34.34519,0 z"
+       transform="matrix(-1.4722518,0,0,1.0907078,823.50683,595.37126)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye23.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#55d400;fill-opacity:1;stroke:none"
+       d="m 357.38364,947.54506 c -5.8215,39.43 -27.28827,68.68824 -52.87685,68.68824 -12.37765,0 -23.75823,-6.8379 -32.90225,-18.36969 6.57211,2.73489 13.48463,4.20469 20.65504,4.20469 27.72586,0 51.98457,-21.89789 65.12406,-54.52324 z"
+       id="path3777-3"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye23.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <g
+       id="g3845-0-4"
+       transform="matrix(-1,0,0,1,368.74324,620.80519)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye22.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001">
+      <path
+         transform="matrix(0.90547673,0,0,0.90547673,13.807149,40.564463)"
+         d="m 421.42857,290.21933 c 0,75.34742 -61.08115,136.42857 -136.42857,136.42857 -75.34742,0 -136.42857,-61.08115 -136.42857,-136.42857 0,-75.34742 61.08115,-136.42857 136.42857,-136.42857 75.34742,0 136.42857,61.08115 136.42857,136.42857 z"
+         sodipodi:ry="136.42857"
+         sodipodi:rx="136.42857"
+         sodipodi:cy="290.21933"
+         sodipodi:cx="285"
+         id="path2985-6-9"
+         style="fill:#ffffff;stroke:#000000;stroke-width:16.56585884;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3764-1-1"
+         d="m 162.75567,264.04151 c -2.71788,6.79188 -4.83036,13.91209 -6.20606,21.34525 -11.48923,62.07894 30.98129,121.10542 94.86503,131.83742 34.12564,5.73287 67.4695,-3.47138 92.86909,-22.75584 -21.73367,6.51756 -46.1795,8.27295 -71.20905,4.06817 C 200.52657,386.34895 150.5638,328.73207 161.46257,269.8435 c 0.36305,-1.96168 0.806,-3.88808 1.2931,-5.80199 z"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#66ff00;fill-opacity:1;stroke:none"
+       id="path3755-5-8"
+       sodipodi:cx="355"
+       sodipodi:cy="290.57648"
+       sodipodi:rx="35"
+       sodipodi:ry="79.64286"
+       d="m 390,290.57648 a 35,79.64286 0 1 1 -70,0 35,79.64286 0 1 1 70,0 z"
+       transform="matrix(-1.6581815,0,0,1.0907078,627.17024,607.25743)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye22.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#374845;fill-opacity:1;stroke:none"
+       id="path3759-5-3"
+       sodipodi:cx="372.74628"
+       sodipodi:cy="302.82898"
+       sodipodi:rx="17.172594"
+       sodipodi:ry="41.416256"
+       d="m 389.91887,302.82898 a 17.172594,41.416256 0 1 1 -34.34519,0 17.172594,41.416256 0 1 1 34.34519,0 z"
+       transform="matrix(-1.6853368,0,0,1.0907078,642.59626,593.2074)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye22.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#55d400;fill-opacity:1;stroke:none"
+       d="m 95.33332,943.36089 c -6.19888,39.43 -29.05722,68.68831 -56.30457,68.68831 -13.18002,0 -25.29834,-6.8379 -35.03511,-18.36976 6.99813,2.73488 14.35875,4.20469 21.99398,4.20469 29.52318,0 55.35444,-21.89789 69.3457,-54.52324 z"
+       id="path3777-2-8"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye22.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <g
+       id="g3845-0-8-9"
+       transform="matrix(-1,0,0,1,925.58371,362.65216)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye21.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001">
+      <path
+         transform="matrix(0.90547673,0,0,0.90547673,13.807149,40.564463)"
+         d="m 421.42857,290.21933 c 0,75.34742 -61.08115,136.42857 -136.42857,136.42857 -75.34742,0 -136.42857,-61.08115 -136.42857,-136.42857 0,-75.34742 61.08115,-136.42857 136.42857,-136.42857 75.34742,0 136.42857,61.08115 136.42857,136.42857 z"
+         sodipodi:ry="136.42857"
+         sodipodi:rx="136.42857"
+         sodipodi:cy="290.21933"
+         sodipodi:cx="285"
+         id="path2985-6-3-71"
+         style="fill:#ffffff;stroke:#000000;stroke-width:16.56585884;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3764-1-2-1"
+         d="m 162.75567,264.04151 c -2.71788,6.79188 -4.83036,13.91209 -6.20606,21.34525 -11.48923,62.07894 30.98129,121.10542 94.86503,131.83742 34.12564,5.73287 67.4695,-3.47138 92.86909,-22.75584 -21.73367,6.51756 -46.1795,8.27295 -71.20905,4.06817 C 200.52657,386.34895 150.5638,328.73207 161.46257,269.8435 c 0.36305,-1.96168 0.806,-3.88808 1.2931,-5.80199 z"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#66ff00;fill-opacity:1;stroke:none"
+       id="path3755-5-7-3"
+       sodipodi:cx="355"
+       sodipodi:cy="290.57648"
+       sodipodi:rx="35"
+       sodipodi:ry="79.64286"
+       d="m 390,290.57648 a 35,79.64286 0 1 1 -70,0 35,79.64286 0 1 1 70,0 z"
+       transform="matrix(-2.033381,0,0,1.0907078,1330.3386,349.1044)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye21.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#55d400;fill-opacity:1;stroke:none"
+       d="m 678.162,685.20786 c -7.60151,39.43 -35.63204,68.68826 -69.0447,68.68826 -16.16228,0 -31.02264,-6.8379 -42.96256,-18.36971 8.58161,2.73488 17.60773,4.20469 26.97059,4.20469 36.20344,0 67.87959,-21.89789 85.03667,-54.52324 z"
+       id="path3777-2-5-5"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye21.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#374845;fill-opacity:1;stroke:none"
+       id="path3759-5-8-2"
+       sodipodi:cx="372.74628"
+       sodipodi:cy="302.82898"
+       sodipodi:rx="17.172594"
+       sodipodi:ry="41.416256"
+       d="m 389.91887,302.82898 a 17.172594,41.416256 0 1 1 -34.34519,0 17.172594,41.416256 0 1 1 34.34519,0 z"
+       transform="matrix(-2.0382779,0,0,1.0907078,1345.1364,335.05437)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye21.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <g
+       id="g3845-0-8-2-15"
+       transform="matrix(-1,0,0,1,639.14723,360.761)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye20.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001">
+      <path
+         transform="matrix(0.90547673,0,0,0.90547673,13.807149,40.564463)"
+         d="m 421.42857,290.21933 c 0,75.34742 -61.08115,136.42857 -136.42857,136.42857 -75.34742,0 -136.42857,-61.08115 -136.42857,-136.42857 0,-75.34742 61.08115,-136.42857 136.42857,-136.42857 75.34742,0 136.42857,61.08115 136.42857,136.42857 z"
+         sodipodi:ry="136.42857"
+         sodipodi:rx="136.42857"
+         sodipodi:cy="290.21933"
+         sodipodi:cx="285"
+         id="path2985-6-3-7-56"
+         style="fill:#ffffff;stroke:#000000;stroke-width:16.56585884;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3764-1-2-2-7"
+         d="m 162.75567,264.04151 c -2.71788,6.79188 -4.83036,13.91209 -6.20606,21.34525 -11.48923,62.07894 30.98129,121.10542 94.86503,131.83742 34.12564,5.73287 67.4695,-3.47138 92.86909,-22.75584 -21.73367,6.51756 -46.1795,8.27295 -71.20905,4.06817 C 200.52657,386.34895 150.5638,328.73207 161.46257,269.8435 c 0.36305,-1.96168 0.806,-3.88808 1.2931,-5.80199 z"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#66ff00;fill-opacity:1;stroke:none"
+       id="path3755-5-7-7-0"
+       sodipodi:cx="355"
+       sodipodi:cy="290.57648"
+       sodipodi:rx="35"
+       sodipodi:ry="79.64286"
+       d="m 390,290.57648 a 35,79.64286 0 1 1 -70,0 35,79.64286 0 1 1 70,0 z"
+       transform="matrix(-2.264273,0,0,1.0907078,1135.9702,347.21324)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye20.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#55d400;fill-opacity:1;stroke:none"
+       d="m 409.73852,683.3167 c -8.46467,39.43 -39.67809,68.68826 -76.88478,68.68826 -17.99752,0 -34.54528,-6.8379 -47.841,-18.36971 9.55606,2.73488 19.6071,4.20469 30.03313,4.20469 40.31437,0 75.58736,-21.89789 94.69265,-54.52324 z"
+       id="path3777-2-5-6-2"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye20.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#374845;fill-opacity:1;stroke:none"
+       id="path3759-5-8-3-3"
+       sodipodi:cx="372.74628"
+       sodipodi:cy="302.82898"
+       sodipodi:rx="17.172594"
+       sodipodi:ry="41.416256"
+       d="m 389.91887,302.82898 a 17.172594,41.416256 0 1 1 -34.34519,0 17.172594,41.416256 0 1 1 34.34519,0 z"
+       transform="matrix(-2.391219,0,0,1.0907078,1208.4401,333.16321)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye20.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <g
+       id="g3845-0-8-2-1-1"
+       transform="matrix(-1,0,0,1,369.16166,359.08731)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye19.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001">
+      <path
+         transform="matrix(0.90547673,0,0,0.90547673,13.807149,40.564463)"
+         d="m 421.42857,290.21933 c 0,75.34742 -61.08115,136.42857 -136.42857,136.42857 -75.34742,0 -136.42857,-61.08115 -136.42857,-136.42857 0,-75.34742 61.08115,-136.42857 136.42857,-136.42857 75.34742,0 136.42857,61.08115 136.42857,136.42857 z"
+         sodipodi:ry="136.42857"
+         sodipodi:rx="136.42857"
+         sodipodi:cy="290.21933"
+         sodipodi:cx="285"
+         id="path2985-6-3-7-5-9"
+         style="fill:#ffffff;stroke:#000000;stroke-width:16.56585884;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3764-1-2-2-9-8"
+         d="M 156.2132,312.23482 C 168.3789,433.0426 317.66468,455.12449 371.49471,362.2066 282.00048,438.04282 197.80914,379.17656 156.2132,312.23482 z"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#66ff00;fill-opacity:1;stroke:none"
+       id="path3755-5-7-7-9-7"
+       sodipodi:cx="355"
+       sodipodi:cy="290.57648"
+       sodipodi:rx="35"
+       sodipodi:ry="79.64286"
+       d="m 390,290.57648 a 35,79.64286 0 1 1 -70,0 35,79.64286 0 1 1 70,0 z"
+       transform="matrix(-2.4374421,0,0,1.0907078,941.60179,345.53955)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye19.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#55d400;fill-opacity:1;stroke:none"
+       d="m 156.79299,690.39302 c -21.21897,62.3473 -99.601851,79.2901 -143.371811,30.6757 50.47214,20.0847 119.744881,6.7905 143.371811,-30.6757 z"
+       id="path3777-2-5-6-5-8"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye19.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#374845;fill-opacity:1;stroke:none"
+       id="path3759-5-8-3-4-4"
+       sodipodi:cx="372.74628"
+       sodipodi:cy="302.82898"
+       sodipodi:rx="17.172594"
+       sodipodi:ry="41.416256"
+       d="m 389.91887,302.82898 a 17.172594,41.416256 0 1 1 -34.34519,0 17.172594,41.416256 0 1 1 34.34519,0 z"
+       transform="matrix(-2.6265131,0,0,1.0907078,1044.3424,333.50983)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye19.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <g
+       id="g3845-8-5"
+       transform="translate(362.47294,623.69203)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye24.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001">
+      <path
+         transform="matrix(0.90547673,0,0,0.90547673,13.807149,40.564463)"
+         d="m 421.42857,290.21933 c 0,75.34742 -61.08115,136.42857 -136.42857,136.42857 -75.34742,0 -136.42857,-61.08115 -136.42857,-136.42857 0,-75.34742 61.08115,-136.42857 136.42857,-136.42857 75.34742,0 136.42857,61.08115 136.42857,136.42857 z"
+         sodipodi:ry="136.42857"
+         sodipodi:rx="136.42857"
+         sodipodi:cy="290.21933"
+         sodipodi:cx="285"
+         id="path2985-2"
+         style="fill:#ffffff;stroke:#000000;stroke-width:16.56585884;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3764-5"
+         d="m 162.75567,264.04151 c -2.71788,6.79188 -4.83036,13.91209 -6.20606,21.34525 -11.48923,62.07894 30.98129,121.10542 94.86503,131.83742 34.12564,5.73287 67.4695,-3.47138 92.86909,-22.75584 -21.73367,6.51756 -46.1795,8.27295 -71.20905,4.06817 C 200.52657,386.34895 150.5638,328.73207 161.46257,269.8435 c 0.36305,-1.96168 0.806,-3.88808 1.2931,-5.80199 z"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ab37c8;fill-opacity:1;stroke:none"
+       id="path3755-1"
+       sodipodi:cx="355"
+       sodipodi:cy="290.57648"
+       sodipodi:rx="35"
+       sodipodi:ry="79.64286"
+       d="m 390,290.57648 a 35,79.64286 0 1 1 -70,0 35,79.64286 0 1 1 70,0 z"
+       transform="matrix(1.5572346,0,0,1.0907078,142.40986,610.14428)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye24.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#374845;fill-opacity:1;stroke:none"
+       id="path3759-9"
+       sodipodi:cx="372.74628"
+       sodipodi:cy="302.82898"
+       sodipodi:rx="17.172594"
+       sodipodi:ry="41.416256"
+       d="m 389.91887,302.82898 a 17.172594,41.416256 0 1 1 -34.34519,0 17.172594,41.416256 0 1 1 34.34519,0 z"
+       transform="matrix(1.4722518,0,0,1.0907078,175.7464,594.07393)"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye24.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#672178;fill-opacity:1;stroke:none"
+       d="m 641.86959,946.24774 c 5.8215,39.43 27.28827,68.68826 52.87685,68.68826 12.37765,0 23.75823,-6.8379 32.90225,-18.36971 -6.57211,2.73488 -13.48463,4.20471 -20.65504,4.20471 -27.72586,0 -51.98457,-21.89791 -65.12406,-54.52326 z"
+       id="path3777-3-6"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye24.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       style="fill:#d40000;fill-opacity:1;stroke:none"
+       d="M 643.34096,899.29335 612.3765,881.50781 C 597.04993,870.22438 593.50934,862.4498 576.59096,856.29335 l -21.75,-4.25 c 11.24976,0.49976 13.52456,-3.35433 32.25,3 12.16218,5.78547 14.68029,13.30328 28.5,19.5 16.15219,8.73984 23.77198,7.41483 32.25,9.5 z"
+       id="path6734"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye24.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       style="fill:#d40000;fill-opacity:1;stroke:none"
+       d="m 641.22612,937.88687 -34.8609,-22.38174 c -26.92974,-12.88774 -58.08487,-9.01173 -87.23403,-0.82663 32.0915,-24.4542 66.55379,-19.57897 90.80204,-8.6127 17.5664,6.61852 23.20948,4.41483 31.6875,6.5 -0.98929,5.65297 -0.39683,19.02792 -0.39461,25.32107 z"
+       id="path6734-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye24.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       style="fill:#d40000;fill-opacity:1;stroke:none"
+       d="m 642.00798,946.69495 c -3.69063,10.00297 -10.17442,24.75962 -22.25367,34.7626 -22.30621,12.88164 -41.05465,15.18792 -65.62133,20.05905 24.72651,-1.0243 46.61481,-3.0323 68.75,-12.68427 16.15219,-8.86871 16.02198,-13.29276 24.5,-19.97502 -2.64283,-6.81722 -4.38738,-15.0141 -5.375,-22.16236 z"
+       id="path6734-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye24.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       style="fill:#d40000;fill-opacity:1;stroke:none"
+       d="m 653.78248,870.31528 -10.45837,-22.00306 c -21.5812,-18.88083 -31.72808,-19.42737 -58.78554,-24.71446 37.80856,-7.41708 70.4517,27.15823 77.41852,35.02817 z"
+       id="path6734-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye24.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       style="fill:#d40000;fill-opacity:1;stroke:none"
+       d="m 671.22271,1006.0582 c -12.11118,18.7648 -35.19,26.7536 -67.64034,25.582 20.45548,-6.0911 52.05959,-14.4878 58.03481,-35.20643 1.85394,2.17076 7.67558,7.98573 9.60553,9.62443 z"
+       id="path6734-0-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye24.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       style="fill:#d40000;fill-opacity:1;stroke:none"
+       d="m 640.81712,843.80808 c -24.13051,8.14688 -44.0765,-16.1569 -64.28159,2.0398 17.79948,-21.8996 38.06566,0.0635 55.17806,-6.89088 z"
+       id="path6734-0-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye24.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       style="fill:#d40000;fill-opacity:1;stroke:none"
+       d="m 600.15847,906.87501 c -14.44042,-11.27627 -26.32704,-21.5898 -35.46699,-34.68399 5.247,19.44594 21.25461,27.60084 30.96442,37.47324 z"
+       id="path6734-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye24.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       style="fill:#d40000;fill-opacity:1;stroke:none"
+       d="m 652.38155,853.77196 c 8.14688,-13.38023 -16.1569,-24.44016 2.0398,-35.64376 -21.89959,9.86971 0.0635,21.10718 -6.89088,30.59591 z"
+       id="path6734-0-8-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye24.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       style="fill:#d40000;fill-opacity:1;stroke:none"
+       d="m 620.75297,920.8916 c -34.10593,8.3748 -48.8053,2.29021 -77.36307,20.99598 25.15769,-22.51226 40.30962,-18.83384 64.49619,-25.98277 z"
+       id="path6734-0-8-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye24.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       style="fill:#d40000;fill-opacity:1;stroke:none"
+       d="m 632.06667,983.32048 c -26.7849,11.02838 -63.92498,-19.37152 -86.35266,5.26126 19.75745,-29.64538 63.44012,-1.88367 82.43491,-11.29782 z"
+       id="path6734-0-8-91"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye24.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       style="fill:#d40000;fill-opacity:1;stroke:none"
+       d="m 610.8737,991.36701 c -1.38369,15.52169 -16.0543,12.61189 -7.34191,29.85269 -11.03769,-11.8429 -2.9067,-15.8581 1.03091,-25.80177 z"
+       id="path6734-0-8-91-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye24.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+    <path
+       style="fill:#d40000;fill-opacity:1;stroke:none"
+       d="m 628.52249,920.53875 c -9.10593,17.8748 -21.3053,42.29021 -70.36307,40.99598 42.65769,-6.01226 56.30962,-25.83384 61.49619,-44.98277 z"
+       id="path6734-0-8-3-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Marek\Google Drive\Programming\C#\Eyed\images\eye24.png"
+       inkscape:export-xdpi="20.940001"
+       inkscape:export-ydpi="20.940001" />
+  </g>
+</svg>
