@@ -19,23 +19,23 @@ RULES
 CONTROLS 
 -------- 
 
-# Player 1 
---> LEFT: A 
---> RIGHT: D 
---> JUMP: W 
---> SHOOT: TAB 
+### Player 1 
+- **LEFT**: A 
+- **RIGHT**: D 
+- **JUMP**: W 
+- **SHOOT**: TAB 
 
-# Player 2 
---> LEFT: LEFT 
---> RIGHT: RIGHT 
---> JUMP: UP 
---> SHOOT: RIGHT CTRL 
+### Player 2 
+- **LEFT**: LEFT 
+- **RIGHT**: RIGHT 
+- **JUMP**: UP 
+- **SHOOT**: RIGHT CTRL 
 
 # Player 3 
---> LEFT: J 
---> RIGHT: L 
---> JUMP: I 
---> SHOOT: SPACE 
+- **LEFT**: J 
+- **RIGHT**: L 
+- **JUMP**: I 
+- **SHOOT**: SPACE 
 
 
 --- 
