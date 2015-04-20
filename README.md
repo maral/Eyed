@@ -1,5 +1,5 @@
 # Eyed
-Game for Ludum Dare #32
+Game for [Ludum Dare #32](http://ludumdare.com/compo/2015/04/15/welcome-to-ludum-dare-32/)
 
 2D platformer for 2-3 players, the main objective is to kill your friend by your very own eye. Or by his eye. Or whose eye was it anyways? 
 
