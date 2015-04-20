@@ -1,5 +1,7 @@
 # Eyed
-Game for [Ludum Dare #32](http://ludumdare.com/compo/2015/04/15/welcome-to-ludum-dare-32/)
+Game for [Ludum Dare #32](http://ludumdare.com/compo/2015/04/15/welcome-to-ludum-dare-32/), a 48 hours competition in creating games from scratch. This round's topic was "An Unconventional Weapon". All code and graphics was made by me only in those 48 hours. It's however possible that I will enhance the game later on.
+
+[Ludum Dare project page](http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=51128)
 
 2D platformer for 2-3 players, the main objective is to kill your friend by your very own eye. Or by his eye. Or whose eye was it anyways? 
 
