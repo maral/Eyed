@@ -43,9 +43,9 @@ CONTROLS
 --- 
 Author: Marek Lisý 
 
-Used tools 
-C#, Wave Engine, Visual Studio 2013 
-Inkscape, Gimp, Tiled, Texture Packer 
-Spotify, Coca-cola 
+**Used tools**:
+- _Programming_: C#, Wave Engine, Visual Studio 2013 
+- _Graphics_: Inkscape, Gimp, Tiled, Texture Packer 
+- _Energy_: Spotify, Coca-cola 
 
-No eyes were harmed while this game was created.
+No eyes were harmed during creation of this game.
