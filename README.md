@@ -20,22 +20,22 @@ CONTROLS
 -------- 
 
 ### Player 1 
-- **LEFT**: A 
-- **RIGHT**: D 
-- **JUMP**: W 
-- **SHOOT**: TAB 
+- **left**: A 
+- **right**: D 
+- **jump**: W 
+- **shoot**: TAB 
 
 ### Player 2 
-- **LEFT**: LEFT 
-- **RIGHT**: RIGHT 
-- **JUMP**: UP 
-- **SHOOT**: RIGHT CTRL 
+- **left**: LEFT 
+- **right**: RIGHT 
+- **jump**: UP 
+- **shoot**: RIGHT CTRL 
 
-# Player 3 
-- **LEFT**: J 
-- **RIGHT**: L 
-- **JUMP**: I 
-- **SHOOT**: SPACE 
+### Player 3 
+- **left**: J 
+- **right**: L 
+- **jump**: I 
+- **shoot**: SPACE 
 
 
 --- 
